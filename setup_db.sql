@@ -1,7 +1,4 @@
-﻿--📄 Archivo 2: `setup_db.sql`
-
----sql
--- 1. Crear la base de datos
+﻿-- 1. Crear la base de datos
 CREATE DATABASE demo_kimball;
 GO
 
